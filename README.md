@@ -1,5 +1,5 @@
 # challenge-in-Ch3
-# Author: Ripple YUAN
+
 import random
 student_list = [
     18421111,
